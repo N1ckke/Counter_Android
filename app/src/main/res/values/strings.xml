@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MegnaConta</string>
+    <string name="base_value">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="toast">toast</string>
+    <string name="count">count</string>
+    <string name="toast_message">Hello Toast</string>
+</resources>
